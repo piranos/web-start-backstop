@@ -1,0 +1,16 @@
+{
+    "name": "deckhaus/web-start-backstop",
+    "description": "de start van dit web maar net niet",
+    "authors": [
+        {
+            "name": "David",
+            "email": "d.eckhaus@farmedvisie.nl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpunit/phpunit": "<8.0"
+    }
+    
+    
+}
