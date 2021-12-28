@@ -9,7 +9,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "phpunit/phpunit": "<8.0"
+        "phpunit/phpunit": "<8.0",
+        "brick/math": "dev-master"
     }
     
     
