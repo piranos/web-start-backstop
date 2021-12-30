@@ -10,8 +10,20 @@
     "minimum-stability": "dev",
     "require": {
         "phpunit/phpunit": "<8.0",
-        "brick/math": "dev-master"
-    }
+        "brick/math": "dev-master",
+        "deckhaus/web-start-tests": "^1.0"
+    },
+     "extra": {
+        "branch-alias": {
+            "dev-main": "1.0.0-dev"
+        }
+    },
+    "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/piranos/web-start-tests.git"
+       }
+    ]
     
     
 }
