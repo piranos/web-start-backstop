@@ -11,7 +11,8 @@
     "require": {
         "phpunit/phpunit": "<8.0",
         "brick/math": "dev-master",
-        "deckhaus/web-start-tests": "^1.0"
+        "deckhaus/web-start-tests": "^1.0",
+        "phpbbde/pastebin": "^2.0"
     },
      "extra": {
         "branch-alias": {
